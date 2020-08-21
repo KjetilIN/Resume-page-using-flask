@@ -1,0 +1,124 @@
+.mainimg {
+    position: relative;
+    z-index: 2;
+    
+}
+
+.grayimg {
+    position: relative;
+    z-index: 1;
+    top: -630px;
+    right: 0px;
+    left: -8px;
+}
+.bar {
+    position: relative;
+    z-index: 3;
+    top: -750px;
+    left: -8px;
+}
+
+.github{
+    position: relative;
+    left: 20px;
+    top: -1400px;
+    padding-bottom: 0px;
+}
+
+.profile{
+    position: relative;
+    z-index: 5;
+    top: -1020px;
+    left: 775px;
+}
+
+.hackerrank{
+    position: relative;
+    z-index: 4;
+    top: -1688px;
+    left: 600px;
+    padding-bottom: 0px;
+}
+.word{
+    position: relative;
+    z-index: 5;
+    top: -1975px;
+    right: -1450px;
+    padding-bottom: 0px;
+}
+
+.pdf{
+    position: relative;
+    z-index: 5;
+    top: -2265px;
+    right: -1150px;
+    padding-bottom: 0px;
+}
+
+.name{
+    position: relative;
+    z-index: 6;
+    top:-1255px ;
+    left: 50px;
+    color: white;
+    font-size: 100px ;
+}
+
+.year{
+    position: relative;
+    z-index: 6;
+    right: -1200px;
+    top:-1450px ;
+    color: white;
+    font-size: 100px ;
+}
+
+.footer{
+    position: relative;
+    padding-bottom: 0px;
+    top: -2000px;
+    bottom: 0;
+    padding-bottom: -100px;
+    margin-top: -100px;
+    padding: 0px;
+    display: block;
+    margin-bottom: auto;
+    overflow: hidden;
+    flex-shrink: 50;
+    
+}
+.body{
+    padding-bottom: 0%;
+    border-block: 0px;
+    min-height: 100%;
+}
+
+
+header{
+    padding-top: 0px;
+    
+    
+}
+
+* { 
+    padding: 0px;
+    margin-block: 0px;
+    display: block;
+    box-sizing: border-box;
+    margin-block: 0px;
+   
+    
+    
+
+
+    
+}
+html, body{
+    display: flexbox;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
